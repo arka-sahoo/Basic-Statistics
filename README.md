@@ -1,1 +1,1 @@
-Basic Statistical calculations
+Basic Statistics
